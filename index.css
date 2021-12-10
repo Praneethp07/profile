@@ -1,0 +1,47 @@
+h3{
+    font: bolder;
+    color: rgb(78, 83, 163);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.skills{
+    table-layout: auto;
+    transform: translateZ(90,43);
+}
+div.des{
+    text-align: auto;
+    color:rgb(90, 86, 86);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+    font-family: 'Meow Script', cursive;
+    margin-right: 30%;
+    margin-left: 30%; 
+    text-shadow:1px 1px 2px black,0 0 25px blueviolet, 0 0 5px darkblue;
+}
+}
+div.mb-4{
+    text-align: center;
+}
+
+div.contact{
+    border-width: 5px;
+    border: silver;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-style: solid;
+    box-shadow: silver;
+    
+    border-radius: 25px;
+    background-image:radial-gradient(cyan,lightgreen);
+    
+    
+}
+div.gradient{
+    background-image: linear-gradient(to right,green,cyan);
+}
+div.box :hover{
+    max-width: auto;
+    max-height: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),0 6px 20px  0 rgba(0,0,0,0.19);
+}
+img {width: auto;}
